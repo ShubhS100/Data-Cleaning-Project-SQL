@@ -1,2 +1,4 @@
 # Data-Cleaning-Project-SQL
-In this project using SQL I have done data cleaning, removing duplicates, standardizing date column, populating address, etc.
+
+In this project i have demonstrated some Data Cleaning steps using SQL to make Nashville Housing Data ready to be analyzed.
+
